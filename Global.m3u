@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="国际",ABC
-https://jmp2.uk/SamsungTVPlus/USBC39000171G.m3u8
 #EXTINF:-1 group-title="国际",BBC
 https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #EXTINF:-1 group-title="国际",CNN
@@ -54,7 +52,7 @@ https://jmp2.uk/SamsungTVPlus/USBC2100008DP.m3u8
 #EXTINF:-1 group-title="国际",Clarity 4K
 https://jmp2.uk/SamsungTVPlus/USBA3800005NI.m3u8
 #EXTINF:-1 group-title="国际",FIFA+
-https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
+https://jmp2.uk/SamsungTVPlus/ATBA3300007PT.m3u8
 #EXTINF:-1 group-title="国际",Stadium
 https://jmp2.uk/SamsungTVPlus/USAJ3504705A.m3u8
 #EXTINF:-1 group-title="国际",NBC Sport
@@ -101,10 +99,6 @@ https://fastmedia-yu-gi-oh-1-gb.xiaomi.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",Food 
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",New KPOP 
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Billiards TV 
-https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",La La Life 
 https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8
 #EXTINF:-1 group-title="国际",Rakuten Viki 
@@ -119,3 +113,9 @@ https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
 https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Global Fashion Channel 
 https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Comedy Hub 
+https://jmp2.uk/SamsungTVPlus/GBBD25000038Y.m3u8
+#EXTINF:-1 group-title="国际",New KPOP 
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="国际",Billiards TV 
+https://newidco-billiardstv-1-eu.xiaomi.wurl.tv/playlist.m3u8
