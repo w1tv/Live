@@ -1,8 +1,10 @@
 #EXTM3U
-#EXTINF:-1 group-title="国际",CNN
-https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
+#EXTINF:-1 group-title="国际",ABC
+https://jmp2.uk/SamsungTVPlus/USBC39000171G.m3u8
 #EXTINF:-1 group-title="国际",BBC
 https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
+#EXTINF:-1 group-title="国际",CNN
+https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",NBC 
@@ -37,8 +39,6 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 https://jmp2.uk/SamsungTVPlus/GBBC900012J9.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
 https://jmp2.uk/SamsungTVPlus/USBD300003LK.m3u8
-#EXTINF:-1 group-title="国际",ION
-https://jmp2.uk/SamsungTVPlus/USBD300002TU.m3u8
 #EXTINF:-1 group-title="国际",Vevo Pop
 https://jmp2.uk/SamsungTVPlus/GBBC19000017V.m3u8
 #EXTINF:-1 group-title="国际",Love Nature
