@@ -9,8 +9,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://jmp2.uk/SamsungTVPlus/USBB2200014DK.m3u8
 #EXTINF:-1 group-title="国际",FOX
 https://jmp2.uk/SamsungTVPlus/USBA300024TN.m3u8
-#EXTINF:-1 group-title="国际",VOA 
-https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist_1080.m3u8
 #EXTINF:-1 group-title="国际",SkyNews
 https://jmp2.uk/SamsungTVPlus/USBB52000022Q.m3u8
 #EXTINF:-1 group-title="国际",WionNews
@@ -43,6 +41,8 @@ https://jmp2.uk/SamsungTVPlus/GBBC19000017V.m3u8
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="国际",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 group-title="国际",Kids TV
+https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 group-title="国际",Wild Earth
