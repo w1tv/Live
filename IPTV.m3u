@@ -371,8 +371,8 @@ https://jmp2.uk/SamsungTVPlus/USBD420002446.m3u8
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="国际",SportsGrid
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Pop
-http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
+#EXTINF:-1 group-title="国际",TBS
+http://143.244.60.30/TBS/index.m3u8
 #EXTINF:-1 group-title="国际",Tastemade
 https://jmp2.uk/SamsungTVPlus/GBBB38000093D.m3u8
 #EXTINF:-1 group-title="国际",MovieSphere
@@ -394,7 +394,7 @@ https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Kids TV 
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Mytime
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+https://mytime-tcl.amagi.tv/playlist1080-p.m3u8?blog.ntnas.top
 #EXTINF:-1 group-title="国际",Museum
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",LoveStories 
