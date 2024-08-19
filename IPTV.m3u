@@ -123,9 +123,9 @@ rtp://239.3.1.208:8001
 rtp://239.3.1.205:8001
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="地方",魅力足球
 rtp://239.3.1.201:8001
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/茶友频道.png" group-title="地方",茶友频道
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="地方",茶友频道
 rtp://239.3.1.165:8001
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/快乐垂钓.png" group-title="地方",快乐垂钓
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png" group-title="地方",快乐垂钓
 rtp://239.3.1.164:8001
 #EXTINF:-1 tvg-name="晴彩竞技" group-title="地方",睛彩竞技
 rtp://239.3.1.125:8001
