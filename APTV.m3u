@@ -129,6 +129,10 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-name="黑龙江影视" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/heilongjiang/Heilongjiang3.png" group-title="地方",龙江影视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江新闻" tvg-name="黑龙江新闻" tvg-logo="https://epg.iill.top/logo/黑龙江新闻.png" group-title="地方",新闻法治
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226330/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江农业科教" tvg-name="黑龙江农业科教" tvg-logo="https://epg.iill.top/logo/黑龙江农业科教.png" group-title="地方",农业•科教 
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-name="内蒙古综合" tvg-logo="https://live.fanmingming.com/tv/内蒙古新闻综合.png" group-title="地方",内蒙新闻
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 #EXTINF:-1 tvg-name="内蒙古经济生活" tvg-logo="https://live.fanmingming.com/tv/内蒙古经济生活.png" group-title="地方",内蒙经济
