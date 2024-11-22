@@ -121,7 +121,7 @@ http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/null-9" group-title=国际,寰宇新聞台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1 tvg-id="NHK-HK" group-title="国际",NHK World-Japan
+#EXTINF:-1 tvg-id="NHK-HK" group-title="国际",NHK World
 https://live.hg16888.vip/mytvsuper/CNHK
 #EXTINF:-1 tvg-id="aktv/channel5hd" group-title=国际,Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
@@ -141,8 +141,6 @@ http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/hk" group-title=国际,娛樂新聞台(HK)
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-13" group-title=国际,日本全天新聞
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/null-19" group-title=国际,明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/null-2" group-title=国际,明珠台
@@ -175,8 +173,6 @@ http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv3/dw" group-title=国际,DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/france24" group-title=国际,France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv3/kix" group-title=国际,KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv3/nickjr" group-title=国际,Nick Jr
