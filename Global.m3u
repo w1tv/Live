@@ -121,11 +121,11 @@ http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv/null-23" group-title="国际",龍華電影台
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/viutv99" group-title="国际",viutv 99
+#EXTINF:-1 tvg-id="aktv2/viutv99" group-title="国际",ViuTV 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/viutv696" group-title="国际",viutv6 96
+#EXTINF:-1 tvg-id="aktv2/viutv696" group-title="国际",ViuTV 696
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/animaxhk" group-title="国际",Animax-HK
+#EXTINF:-1 tvg-id="aktv3/animaxhk" group-title="国际",Animax
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv3/dw" group-title="国际",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
