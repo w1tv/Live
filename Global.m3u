@@ -23,6 +23,8 @@ https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 group-title="国际",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
+#EXTINF:-1 group-title="国际",Love Nature
+http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
 #EXTINF:-1 group-title="国际",Kids TV
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
@@ -55,27 +57,27 @@ https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",Food
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="aktv/null-3" group-title="国际",鳳凰中文
+#EXTINF:-1 tvg-id="aktv/null-3" group-title="国际",凤凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-4" group-title="国际",鳳凰資訊
+#EXTINF:-1 tvg-id="aktv/null-4" group-title="国际",凤凰资讯
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-5" group-title="国际",鳳凰香港
+#EXTINF:-1 tvg-id="aktv/null-5" group-title="国际",凤凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-12" group-title="国际",中天亞洲台
+#EXTINF:-1 tvg-id="aktv/null-12" group-title="国际",中天亚洲
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-8" group-title="国际",中天新聞台
+#EXTINF:-1 tvg-id="aktv/null-8" group-title="国际",中天新聞
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-10" group-title="国际",中視
+#EXTINF:-1 tvg-id="aktv/null-10" group-title="国际",中视
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/tvbs-1" group-title="国际",TVBS新聞台
+#EXTINF:-1 tvg-id="aktv/tvbs-1" group-title="国际",TVBS新闻
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-1" group-title="国际",無線新聞台
+#EXTINF:-1 tvg-id="aktv/null-1" group-title="国际",无线新闻
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/null-1" group-title="国际",无线新闻台(北美)
+#EXTINF:-1 tvg-id="aktv2/null-1" group-title="国际",无线新闻(北美)
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/null-2" group-title="国际",無線衛星新聞台
+#EXTINF:-1 tvg-id="aktv3/null-2" group-title="国际",无线卫星新闻
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-9" group-title="国际",寰宇新聞台
+#EXTINF:-1 tvg-id="aktv/null-9" group-title="国际",寰宇新闻台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
 #EXTINF:-1 tvg-id="NHK-HK" group-title="国际",NHK World
 http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
@@ -132,10 +134,10 @@ http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv3/kix" group-title="国际",KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv3/nickjr" group-title="国际",Nick Jr
-http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
+http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8、
+#EXTINF:-1 tvg-id="aktv3/zoomoo" group-title="国际",ZooMoo
+http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv3/nickelodeon" group-title="国际",Nickelodeon
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
 #EXTINF:-1 tvg-id="aktv3/rockaction" group-title="国际",ROCK Action
 http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/zoomoo" group-title="国际",ZooMoo
-http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
