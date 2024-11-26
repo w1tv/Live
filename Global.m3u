@@ -24,7 +24,7 @@ https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/ch
 #EXTINF:-1 group-title="国际",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",Love Nature
-http://aktv.top/AKTV/live/aktv3/lovenaturehd/AKTV.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="国际",Kids TV
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
