@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="国际",BBC News
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 group-title="国际",CNN
-http://cord-cutter.net:8080/Rme2Fg/183926/104884?checkedby:alliptvlinks.com
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际",GB News
@@ -37,8 +35,6 @@ https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Mytime
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",New Movies
-https://newidco-newmovies-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
 https://dbrb49pjoymg4.cloudfront.net/10001/9999614/hls/playlist.m3u8?ads.xumo_channelId=9999614
 #EXTINF:-1 group-title="国际",Today Allday
