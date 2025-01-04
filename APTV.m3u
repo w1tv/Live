@@ -85,6 +85,10 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 group-title="卫视",内蒙古卫视
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
+#EXTINF:-1 group-title="卫视",青海卫视
+http://222.134.245.16:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF35%E3%80%8F
+#EXTINF:-1 group-title="卫视",云南卫视
+http://222.134.245.16:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF35%E3%80%8F
 #EXTINF:-1 group-title="数字",纪实人文
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 group-title="数字",纪实科教
@@ -179,6 +183,16 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
 #EXTINF:-1 group-title="地方",佳木斯新闻综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
+#EXTINF:-1 group-title="地方",上海教育
+http://61.173.144.157:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF1%E3%80%8F
+#EXTINF:-1 group-title="地方",东方影视
+http://223.166.234.9:7777/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF11%E3%80%8F
+#EXTINF:-1 group-title="地方",东方财经
+http://223.166.234.9:7777/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF12%E3%80%8F
+#EXTINF:-1 group-title="地方",五星体育
+http://61.173.144.157:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF14%E3%80%8F
+#EXTINF:-1 group-title="地方",第一财经
+http://223.166.234.9:7777/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF10%E3%80%8F
 #EXTINF:-1 group-title="地方",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 group-title="地方",浙江国际
