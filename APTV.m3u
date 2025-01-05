@@ -91,8 +91,6 @@ http://222.134.245.16:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=
 http://222.134.245.16:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0%24LR%E2%80%A2IPV4%E3%80%8E%E7%BA%BF%E8%B7%AF35%E3%80%8F
 #EXTINF:-1 group-title="卫视",山西卫视
 http://59.48.75.130:3052/tsfile/live/1002_1.m3u8
-#EXTINF:-1 group-title="卫视",陕西卫视
-http://hms184nc1972679574.live.aikan.miguvideo.com/wh7f454c46tw1591088432_505084450/migu/kailu/shan3xiws/57/20220809/01.m3u8 
 #EXTINF:-1 group-title="数字",CCTV4K
 http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="数字",南国都市
