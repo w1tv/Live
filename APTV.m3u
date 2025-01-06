@@ -87,12 +87,8 @@ http://61.173.144.157:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=
 https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=35f2dd39972cede5222c6bd2c0efe24b&txTime=77395680
 #EXTINF:-1 group-title="卫视",山西卫视
 http://59.48.75.130:3052/tsfile/live/1002_1.m3u8
-#EXTINF:-1 group-title="数字",CCTV4K
-http://223.105.252.60/PLTV/4/224/3221228472/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="数字",南国都市
 http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4
-#EXTINF:-1 group-title="数字",中国教育
-http://121.19.134.80:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="数字",纪实科教
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 group-title="数字",东北热剧
