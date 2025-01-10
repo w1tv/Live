@@ -171,18 +171,6 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="地方",体育休闲
 http://61.156.228.12:8154/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方",文旅公共
-http://121.19.134.80:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方",少儿科教
-http://121.19.134.80:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方",河北影视剧
-http://121.19.134.80:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方",河北杂技
-http://121.19.134.80:808/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方",经济生活
-http://121.19.134.80:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="地方",河北都市
-http://121.19.134.80:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="地方",内蒙新闻
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 #EXTINF:-1 group-title="地方",内蒙经济
