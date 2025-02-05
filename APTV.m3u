@@ -61,7 +61,7 @@ http://drive.mxmy.net:8888/udp/239.3.1.115:8000
 http://drive.mxmy.net:8888/udp/239.3.1.189:8000
 #EXTINF:-1 group-title="卫视频道",BRTV体育休闲
 http://drive.mxmy.net:8888/udp/239.3.1.243:8000
-#EXTINF:-1 group-title="卫视频道",BTV国际频道
+#EXTINF:-1 group-title="卫视频道",BRTV国际频道
 http://drive.mxmy.net:8888/udp/239.3.1.235:8000
 #EXTINF:-1 group-title="卫视频道",纪实人文
 http://drive.mxmy.net:8888/udp/239.3.1.212:8060
@@ -168,4 +168,4 @@ http://drive.mxmy.net:8888/udp/239.3.1.164:8001
 #EXTINF:-1 group-title="数字频道",中国教育
 http://drive.mxmy.net:8888/udp/239.3.1.57:8152
 #EXTINF:-1 group-title="数字频道",中国交通
-http://drive.mxmy.net:8888/udp/239.3.1.188:8001
+http://drive.mxmy.net:8888/udp/239.3.1.188:800
