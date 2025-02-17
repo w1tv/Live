@@ -147,3 +147,18 @@ rtp://239.3.1.188:8001
 rtp://239.3.1.236:2000
 #EXTINF:-1 group-title="地方",超清电影
 rtp://239.3.1.249:8001
+rtp://239.3.1.114:8001
+#EXTINF:-1 group-title="购物",聚鲨环球 
+rtp://239.3.1.179:8001
+#EXTINF:-1 group-title="购物",聚鲨国际 
+rtp://239.3.1.183:8001
+#EXTINF:-1 group-title="购物",央广购物[高清]1
+rtp://239.3.1.222:8001
+#EXTINF:-1 group-title="购物",央广购物 
+rtp://239.3.1.223:8001
+#EXTINF:-1 group-title="购物",时尚购物
+rtp://239.3.1.181:8001
+#EXTINF:-1 group-title="购物",东方购物
+rtp://239.3.1.182:8001
+#EXTINF:-1 group-title="购物",家有购物
+rtp://239.3.1.185:8001
