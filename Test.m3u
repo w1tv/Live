@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="76564" tvg-name="US - CNN UHD+ ◉ " tvg-logo="http://go4.pw/USA/CNN.png" group-title="国际",CNN
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/76564
+#EXTINF:-1 tvg-id="427229" tvg-name="BBC" tvg-logo="http://go4.pw/ASIA/VIETNAM/BBC_NEWS.png" group-title="国际",BBC
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/427229
 #EXTINF:-1 tvg-id="269823" tvg-name="凤凰资讯" tvg-logo="http://go4.pw/ASIA/CHINA/PHOENIX-INFONEWS.png" group-title="国际",凤凰资讯
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269823
 #EXTINF:-1 tvg-id="269822" tvg-name="凤凰美洲" tvg-logo="http://go4.pw/ASIA/CHINA/PHOENIX-NORTH-AMERICA-CHINESE-CHANNEL.png" group-title="国际",凤凰北美
@@ -41,6 +45,8 @@ http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052476
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052488
 #EXTINF:-1 tvg-id="1052452" tvg-name="MY - CINEMAX HD" tvg-logo="http://go4.pw/AMERICA/USA/CINEMAX.png" group-title="国际",Cinemax HD
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052452
+#EXTINF:-1 tvg-id="1014274" tvg-name="US - GOLD TV 24/7 | BET HER" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" group-title="国际",Gold TV
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1014274
 #EXTINF:-1 tvg-id="1052491" tvg-name="MY - FOOD NETWORK HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/food_network.png" group-title="国际",Food Network
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052491
 #EXTINF:-1 tvg-id="1052504" tvg-name="MY - HBO FAMILY HD" tvg-logo="http://go4.pw/BRAZIL/FAMILY.png" group-title="国际",HBO Family
@@ -59,3 +65,11 @@ http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052563
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052587
 #EXTINF:-1 tvg-id="957699" tvg-name="MY - ASIAN FOOD NETWORK HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ASIAN_FOOD_NETWORK.png" group-title="国际",Food Network
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/957699
+#EXTINF:-1 tvg-id="17305" tvg-name="UK - BBC 1 FHD ◉" tvg-logo="http://go4.pw/EUROPE/UK/BBC-1.png" group-title="国际L",BBC 1 
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17305
+#EXTINF:-1 tvg-id="17318" tvg-name="UK - BBC 2 FHD ◉" tvg-logo="http://go4.pw/EUROPE/UK/BBC-1.png" group-title="国际",BBC 2
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17318
+#EXTINF:-1 tvg-id="17321" tvg-name="UK - BBC 3  FHD ◉" tvg-logo="http://go4.pw/EUROPE/UK/BBC-1.png" group-title="国际",BBC 3  
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17321
+#EXTINF:-1 tvg-id="17331" tvg-name="UK - BBC 4 FHD ◉" tvg-logo="http://go4.pw/EUROPE/UK/BBC-1.png" group-title="国际",BBC 4 
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17331
