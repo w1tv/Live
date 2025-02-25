@@ -53,6 +53,8 @@ http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/271344
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/271345
 #EXTINF:-1 tvg-id="977688" tvg-name="索尼电影" tvg-logo="http://go4.pw/EUROPE/UK/SONYMOVIES.png" group-title="国际",Sony Movies
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/977688
+#EXTINF:-1 tvg-id="121096" tvg-name="24/7 COMEDY MOVIES" group-title="24/7 CHANNELS ",Comedy Movies
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121096
 #EXTINF:-1 tvg-id="977690" tvg-logo="http://go4.pw/ASIA/kbsworld.png" group-title="国际",KBS World
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/977690
 #EXTINF:-1 tvg-id="543291" tvg-name="PH - BBC EARTH HD" tvg-logo="http://go4.pw/ASIA/VIETNAM/BBC_EARTH.png" group-title="国际",BBC Earth
@@ -61,10 +63,22 @@ http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543291
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543256
 #EXTINF:-1 tvg-id="1052422" tvg-name="MY - BBC LIFESTYLE HD" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" group-title="国际",BBC Lifestyle
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052421
+#EXTINF:-1 tvg-id="9861" tvg-name="国际: Discovery Life HD" tvg-logo="https://logodix.com/logo/997920.png" group-title="国际 ",国际: Discovery Life  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9861
+#EXTINF:-1 tvg-id="10538" tvg-name="国际: DISCOVERY FAMILY" tvg-logo="https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png" group-title="国际 ",国际: Discovery Family
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/10538
+#EXTINF:-1 tvg-id="9811" tvg-name="US Discovery Channel East " tvg-logo="https://logodix.com/logo/997920.png" group-title="国际 ",Discovery Channel East 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9811
 #EXTINF:-1 tvg-id="1052478" tvg-name="MY - DISCOVERY CHANNEL HD" tvg-logo="http://go4.pw/EXYU/DISCOVERYCHANNEL.png" group-title="国际",Discovery Channel
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052478
 #EXTINF:-1 tvg-id="1052476" tvg-name="MY - DISCOVERY ASIA HD" tvg-logo="http://go4.pw/ASIA/DISCOVERY.png" group-title="国际",Discovery Asia
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052476
+#EXTINF:-1 tvg-id="53695" tvg-name="UK-Discovery Science" group-title="国际",Discovery Science
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53695
+#EXTINF:-1 tvg-id="11664" tvg-name="US Nat Geo Wild East (A)" tvg-logo="https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png" group-title="国际 ",Nat Geo Wild East  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/11664
+#EXTINF:-1 tvg-id="46722" tvg-name="US National Geographic " group-title="国际 ",National Geographic 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46722
 #EXTINF:-1 tvg-id="1052488" tvg-name="MY - EUROSPORTS HD" tvg-logo="http://go4.pw/UK/eursp1.png" group-title="国际",Eurosports HD
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052488
 #EXTINF:-1 tvg-id="1052452" tvg-name="MY - CINEMAX HD" tvg-logo="http://go4.pw/AMERICA/USA/CINEMAX.png" group-title="国际",Cinemax HD
@@ -73,6 +87,12 @@ http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052452
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1014274
 #EXTINF:-1 tvg-id="1052491" tvg-name="MY - FOOD NETWORK HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/food_network.png" group-title="国际",Food Network
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052491
+#EXTINF:-1 tvg-id="17773" tvg-name="US HBO Comedy (East) " tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="国际",HBO Comedy  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17773
+#EXTINF:-1 tvg-id="9266" tvg-name="US HBO SIGNATURE (East) " tvg-logo="https://logodix.com/logo/1111252.png" group-title="国际",HBO Singnature
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9266
+#EXTINF:-1 tvg-id="9265" tvg-name="US HBO Zone (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="国际",HBO Zone  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9265
 #EXTINF:-1 tvg-id="1052504" tvg-name="MY - HBO FAMILY HD" tvg-logo="http://go4.pw/BRAZIL/FAMILY.png" group-title="国际",HBO Family
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052504
 #EXTINF:-1 tvg-id="1052507" tvg-name="MY - HBO HD" tvg-logo="http://go4.pw/PORTUGAL/hbo_HD.png" group-title="国际",HBO HD
