@@ -35,6 +35,8 @@ http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/232800
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/332166
 #EXTINF:-1 tvg-id="248840" tvg-name="US - ABC NEWS HD" tvg-logo="http://go4.pw/AMERICA/USA/ABC.png" group-title="国际",ABC News
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/248840
+#EXTINF:-1 tvg-id="17361" tvg-name="UK - FRANCE 24 SD" tvg-logo="http://go4.pw/EUROPE/PORTUGAL/FRANCE24.png" group-title="国际",UK - France 24 
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/17361
 #EXTINF:-1 tvg-id="1052422" tvg-name="MY - BBC LIFESTYLE HD" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" group-title="国际",BBC Lifestyle
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052421
 #EXTINF:-1 tvg-id="1052478" tvg-name="MY - DISCOVERY CHANNEL HD" tvg-logo="http://go4.pw/EXYU/DISCOVERYCHANNEL.png" group-title="国际",Discovery Channel
@@ -59,8 +61,6 @@ http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052513
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052520
 #EXTINF:-1 tvg-id="1052526" tvg-name="MY - HITS NOW HD" tvg-logo="http://go4.pw/ASIA/HITS1.png" group-title="国际",HITS Now
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052526
-#EXTINF:-1 tvg-id="1052563" tvg-name="MY - NAT GEO WILD HD" tvg-logo="http://go4.pw/AFRICA/CANAL+/NATGEOWILD.png" group-title="国际",NAT GEO Wild
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052563
 #EXTINF:-1 tvg-id="1052587" tvg-name="MY - SKY NEWS HD" tvg-logo="http://go4.pw/USA/SD2/10.png" group-title="国际",Sky News
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052587
 #EXTINF:-1 tvg-id="957699" tvg-name="MY - ASIAN FOOD NETWORK HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ASIAN_FOOD_NETWORK.png" group-title="国际",Food Network
