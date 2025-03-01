@@ -21,8 +21,6 @@ http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052641
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052635
 #EXTINF:-1 tvg-id="1052644" tvg-name="MY - TVBS ASIA HD" tvg-logo="http://go4.pw/ASIA/tvbs.png" group-title="国际",TVBS欢乐台
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052644
-#EXTINF:-1 tvg-id="71489" tvg-name="US - WEATHER NATION | HD" tvg-logo="http://go4.pw/AMERICA/USA/WEATHERNATION.png" group-title="国际",Weather Nation
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71489
 #EXTINF:-1 tvg-id="1084575" tvg-name="US - FOX NEWS CHANNEL [BK]" tvg-logo="http://go4.pw/LATINO/MEXICO/FOXNEWSCHANNEL.png" group-title="国际",Fox News 
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1084575
 #EXTINF:-1 tvg-id="71494" tvg-name="US - FOX BUSINESS NETWORK HD" tvg-logo="http://go4.pw/EUROPE/SPAIN/FOCNEWS.png" group-title="国际",Fox Business
@@ -43,8 +41,6 @@ http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1086616
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1166647
 #EXTINF:-1 tvg-id="1052587" tvg-name="MY - SKY NEWS HD" tvg-logo="http://go4.pw/USA/SD2/10.png" group-title="国际",Sky News
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052587
-#EXTINF:-1 tvg-id="1032478" tvg-name="US - BEK Sports News" tvg-logo="http://go4.pw/USA/BEK_SPORTS.png" group-title="国际",BEK Sports News
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1032478
 #EXTINF:-1 tvg-id="974332" tvg-name="US - SPECTRUM NEWS 13" tvg-logo="http://go4.pw/usa/24.png" group-title="国际",Spectrum News
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/974332
 #EXTINF:-1 tvg-id="271344" tvg-name="US - INSIGHT 4K" tvg-logo="http://go4.pw/USA/4.png" group-title="国际",Insight
@@ -79,14 +75,10 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53695
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/11664
 #EXTINF:-1 tvg-id="46722" tvg-name="US National Geographic " group-title="国际",National Geographic 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46722
-#EXTINF:-1 tvg-id="1052488" tvg-name="MY - EUROSPORTS HD" tvg-logo="http://go4.pw/UK/eursp1.png" group-title="国际",Eurosports HD
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052488
 #EXTINF:-1 tvg-id="1052452" tvg-name="MY - CINEMAX HD" tvg-logo="http://go4.pw/AMERICA/USA/CINEMAX.png" group-title="国际",Cinemax HD
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052452
 #EXTINF:-1 tvg-id="1014274" tvg-name="US - GOLD TV 24/7 | BET HER" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" group-title="国际",Gold TV
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1014274
-#EXTINF:-1 tvg-id="1052491" tvg-name="MY - FOOD NETWORK HD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/food_network.png" group-title="国际",Food Network
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052491
 #EXTINF:-1 tvg-id="17773" tvg-name="US HBO Comedy (East) " tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="国际",HBO Comedy  
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17773
 #EXTINF:-1 tvg-id="9266" tvg-name="US HBO SIGNATURE (East) " tvg-logo="https://logodix.com/logo/1111252.png" group-title="国际",HBO Singnature
@@ -107,6 +99,12 @@ http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052526
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71351
 #EXTINF:-1 tvg-id="973137" tvg-name="UK - SKY SPORTS+ FHD" tvg-logo="http://go4.pw/UK/SKY_SPORTS+.png" group-title="国际",SKY Sports+  
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/973137
+#EXTINF:-1 tvg-id="76642" tvg-name="IT - SKY SPORT F1 UHD" tvg-logo="http://go4.pw/UK/SKYF1.png" group-title="国际",SKY Sports F1 
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/76642
+#EXTINF:-1 tvg-id="1052488" tvg-name="MY - EUROSPORTS HD" tvg-logo="http://go4.pw/UK/eursp1.png" group-title="国际",Eurosports
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052488
+#EXTINF:-1 tvg-id="1052431" tvg-name="MY - BEIN SPORTS FHD" tvg-logo="http://go4.pw/ASIA/beein.png" group-title="国际",BEEIN Sports
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052431
 #EXTINF:-1 tvg-id="71986" tvg-name="nba tv" tvg-logo="http://go4.pw/AMERICA/USA/NBATV.png" group-title="国际",NBA TV
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71986
 #EXTINF:-1 tvg-id="973127" tvg-name="US - ESPN FHD" tvg-logo="http://go4.pw/AMERICA/BRASIL/ESPN-1.png" group-title="国际",ESPN 
