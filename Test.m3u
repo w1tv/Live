@@ -3,12 +3,6 @@
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/76564
 #EXTINF:-1 tvg-id="427229" tvg-name="BBC" tvg-logo="http://go4.pw/ASIA/VIETNAM/BBC_NEWS.png" group-title="国际",BBC
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/427229
-#EXTINF:-1 tvg-id="269823" tvg-name="凤凰资讯" tvg-logo="http://go4.pw/ASIA/CHINA/PHOENIX-INFONEWS.png" group-title="国际",凤凰资讯
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269823
-#EXTINF:-1 tvg-id="269822" tvg-name="凤凰美洲" tvg-logo="http://go4.pw/ASIA/CHINA/PHOENIX-NORTH-AMERICA-CHINESE-CHANNEL.png" group-title="国际",凤凰北美
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269822
-#EXTINF:-1 tvg-id="269828" tvg-name="凤凰香港" tvg-logo="http://go4.pw/ASIA/phoenix.png" group-title="国际",凤凰香港
-http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269828
 #EXTINF:-1 tvg-id="269923" tvg-name="东森美洲" tvg-logo="http://go4.pw/ASIA/taiwan/ET-NEWS.png" group-title="国际",东森美洲
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/269923
 #EXTINF:-1 tvg-id="269926" tvg-name="东森卫视" tvg-logo="http://go4.pw/ASIA/taiwan/ET-GLOBAL.png" group-title="国际",东森卫视
@@ -61,6 +55,14 @@ http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543291
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/543256
 #EXTINF:-1 tvg-id="1052422" tvg-name="MY - BBC LIFESTYLE HD" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/BBC_Lifestyl.png" group-title="国际",BBC Lifestyle
 http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/1052421
+#EXTINF:-1 tvg-id="71467" tvg-name="US - NICK JR UHD" tvg-logo="http://go4.pw/AMERICA/USA/NICKJR.png" group-title="国际",Nick Jr
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/71467
+#EXTINF:-1 tvg-id="494704" tvg-name="US - DISNEY JR HD" tvg-logo="http://go4.pw/usa/17.png" group-title="国际",Disney JR 
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/494704
+#EXTINF:-1 tvg-id="494705" tvg-name="US - DISNEY XD HD" tvg-logo="http://go4.pw/usa/17.png" group-title="国际”,Disney XD 
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/494705
+#EXTINF:-1 tvg-id="495010" tvg-name="US - PBS KIDS HD" tvg-logo="http://go4.pw/usa/PBS_Kids_HD.png" group-title="国际",PBS Kids
+http://rfye55.xyz:80/98:06:3c:5a:3f:27/030D4A607EE5/495010
 #EXTINF:-1 tvg-id="9861" tvg-name="Discovery Life HD" tvg-logo="https://logodix.com/logo/997920.png" group-title="国际",Discovery Life  
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9861
 #EXTINF:-1 tvg-id="10538" tvg-name="DISCOVERY FAMILY" tvg-logo="https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png" group-title="国际",Discovery Family
