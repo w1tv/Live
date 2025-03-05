@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="47213" tvg-name="CA CNN " group-title="国际",CNN
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/47213
+#EXTINF:-1 tvg-id="53757" tvg-name="UK: BBC NEWS" group-title="国际",BBC 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53757
+#EXTINF:-1 tvg-id="121139" tvg-name="US abc 7 (WABC) New York" group-title="国际",ABC
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121139
+#EXTINF:-1 tvg-id="160711" tvg-name="US Al Jazeera" group-title="国际",Al Jazeera
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/160711
+#EXTINF:-1 tvg-id="1818" tvg-name="US Fox News  " tvg-logo="https://juicetv.app/channellogo/foxnews.png" group-title="国际",Fox News
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/1818
+#EXTINF:-1 tvg-id="161450" tvg-name="US NewsNation " group-title="国际",NewsNation
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/161450
+#EXTINF:-1 tvg-id="46754" tvg-name="US CBSN New York (D)" group-title="国际",CBSN  
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46754
+#EXTINF:-1 tvg-id="78578" tvg-name="Infowars" group-title="国际",Infowars
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/78578
+#EXTINF:-1 tvg-id="17749" tvg-name="US NBC (KXAN) Austin " group-title="国际",NBC
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17749
+#EXTINF:-1 tvg-id="121004" tvg-name="AU ABC News Sydney (D)" group-title="国际",ABC News Sydney 
+http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121004
 #EXTINF:-1 tvg-id="9861" tvg-name="Discovery Life HD" tvg-logo="https://logodix.com/logo/997920.png" group-title="国际",Discovery Life
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9861
 #EXTINF:-1 tvg-id="10538" tvg-name="DISCOVERY FAMILY" tvg-logo="https://png.pngitem.com/pimgs/s/452-4528679_discovery-family-channel-logo-hd-png-download.png" group-title="国际",Discovery Family
@@ -11,63 +31,43 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53695
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/11664
 #EXTINF:-1 tvg-id="46722" tvg-name="US National Geographic " group-title="国际",National Geographic
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46722
-#EXTINF:-1 tvg-id="46754" tvg-name="US CBSN New York (D)" group-title="USA ",US CBSN New York (D)
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46754
-#EXTINF:-1 tvg-id="78578" tvg-name="Infowars" group-title="USA ",Infowars
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/78578
-#EXTINF:-1 tvg-id="17749" tvg-name="US NBC (KXAN) Austin " group-title="USA | NEWS | REGIONALS ",US NBC (KXAN) Austin 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17749
-#EXTINF:-1 tvg-id="18925" tvg-name="US AMC " tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="USA ",US AMC 
+#EXTINF:-1 tvg-id="18925" tvg-name="US AMC" tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="国际",AMC
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/18925
-#EXTINF:-1 tvg-id="13702" tvg-name="US BET (East)  " tvg-logo="https://www.pinclipart.com/picdir/middle/396-3966034_bet-her-logo-png-clipart.png" group-title="USA ",US BET (East)  
+#EXTINF:-1 tvg-id="13702" tvg-name="US BET (East)" tvg-logo="https://www.pinclipart.com/picdir/middle/396-3966034_bet-her-logo-png-clipart.png" group-title="国际",BET
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13702
-#EXTINF:-1 tvg-id="21259" tvg-name="US CBS News " group-title="USA ",US CBS News 
+#EXTINF:-1 tvg-id="21259" tvg-name="US CBS News " group-title="国际",CBS
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/21259
-#EXTINF:-1 tvg-id="9815" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="USA ",US CNBC 
+#EXTINF:-1 tvg-id="9815" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="国际",CNBC
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9815
-#EXTINF:-1 tvg-id="1818" tvg-name="US Fox News  " tvg-logo="https://juicetv.app/channellogo/foxnews.png" group-title="USA ",US Fox News  
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/1818
-#EXTINF:-1 tvg-id="46724" tvg-name="US HISTORY " group-title="USA ",US HISTORY 
+#EXTINF:-1 tvg-id="46724" tvg-name="US HISTORY " group-title="国际",HISTORY
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46724
-#EXTINF:-1 tvg-id="46713" tvg-name="US HBO East HD  " group-title="USA ",US HBO East HD  
+#EXTINF:-1 tvg-id="46713" tvg-name="US HBO East HD" group-title="国际",HBO East 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46713
-#EXTINF:-1 tvg-id="121139" tvg-name="US abc 7 (WABC) New York" group-title="USA | NEWS | REGIONALS ",US ABC 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121139
-#EXTINF:-1 tvg-id="160711" tvg-name="US Al Jazeera" group-title="USA ",US Al Jazeera
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/160711
-#EXTINF:-1 tvg-id="161450" tvg-name="US NewsNation " group-title="USA ",US NewsNation 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/161450
-#EXTINF:-1 tvg-id="53757" tvg-name="UK: BBC NEWS" group-title="UK UNITED KINGDOM",UK: BBC NEWS
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53757
-#EXTINF:-1 tvg-id="53704" tvg-name="UK Sky Sports F1 FHD (D)" group-title="UK UNITED KINGDOM",UK Sky Sports F1 FHD (D)
+#EXTINF:-1 tvg-id="53704" tvg-name="UK Sky Sports F1 FHD (D)" group-title="国际",Sky Sports F1  
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53704
-#EXTINF:-1 tvg-id="53706" tvg-name="UK Sky Sports Mix FHD (D)" group-title="UK UNITED KINGDOM",UK Sky Sports Mix FHD (D)
+#EXTINF:-1 tvg-id="53706" tvg-name="UK Sky Sports Mix FHD (D)" group-title="国际",Sky Sports Mix  
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53706
-#EXTINF:-1 tvg-id="35248" tvg-name="UK Sky Cinema Scifi & Horror FHD  " group-title="MOVIE NETWORKS",UK Sky Cinema Scifi & Horror FHD  
+#EXTINF:-1 tvg-id="35248" tvg-name="UK Sky Cinema Scifi & Horror FHD" group-title="国际",Sky Cinema Scifi & Horror 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35248
-#EXTINF:-1 tvg-id="35252" tvg-name="UK MOVIES: SKY CRIME THRILLER" group-title="MOVIE NETWORKS",UK MOVIES: SKY CRIME THRILLER
+#EXTINF:-1 tvg-id="35252" tvg-name="UK MOVIES: SKY CRIME THRILLER" group-title="国际",SKY Crime Thriller
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35252
-#EXTINF:-1 tvg-id="20863" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="MOVIE NETWORKS",US Lifetime Movies 
+#EXTINF:-1 tvg-id="20863" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="国际",Lifetime Movies
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20863
-#EXTINF:-1 tvg-id="13380" tvg-name="US Cinemax (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="MOVIE NETWORKS",US Cinemax (East) 
+#EXTINF:-1 tvg-id="13380" tvg-name="US Cinemax (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="国际",Cinemax  
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13380
-#EXTINF:-1 tvg-id="22995" tvg-name="CA-NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="NBA",CA-NBA TV
+#EXTINF:-1 tvg-id="22995" tvg-name="CA-NBA TV" tvg-logo="https://i.pinimg.com/originals/52/4a/46/524a467886b251a6ef5becf35e47de10.png" group-title="国际",NBA TV
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/22995
-#EXTINF:-1 tvg-id="53649" tvg-name="UK-BBC One" group-title="UK UNITED KINGDOM",UK-BBC One
+#EXTINF:-1 tvg-id="53649" tvg-name="UK-BBC One" group-title="国际",BBC One
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53649
-#EXTINF:-1 tvg-id="53650" tvg-name="UK: BBC TWO HD" group-title="UK UNITED KINGDOM",UK: BBC TWO HD
+#EXTINF:-1 tvg-id="53650" tvg-name="UK: BBC TWO HD" group-title="国际",BBC Two
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53650
-#EXTINF:-1 tvg-id="53755" tvg-name="UK-BBC One Scotland" group-title="UK UNITED KINGDOM",UK-BBC One Scotland
+#EXTINF:-1 tvg-id="53755" tvg-name="UK-BBC One Scotland" group-title="国际",BBC One Scotland
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53755
-#EXTINF:-1 tvg-id="53720" tvg-name="UK-CBBC" group-title="UK UNITED KINGDOM",UK-CBBC
+#EXTINF:-1 tvg-id="53720" tvg-name="UK-CBBC" group-title="国际",CBBC
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53720
-#EXTINF:-1 tvg-id="57377" tvg-name="CA: Animal Planet" group-title="CANADA",CA: Animal Planet
+#EXTINF:-1 tvg-id="57377" tvg-name="CA: Animal Planet" group-title="国际",Animal Planet
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57377
-#EXTINF:-1 tvg-id="47213" tvg-name="CA CNN " group-title="CANADA",CA CNN 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/47213
-#EXTINF:-1 tvg-id="57273" tvg-name="CA HGTV " group-title="CANADA",CA HGTV 
+#EXTINF:-1 tvg-id="57273" tvg-name="CA HGTV " group-title="国际",HGTV
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57273
-#EXTINF:-1 tvg-id="121004" tvg-name="AU ABC News Sydney (D)" group-title="Australia ",AU ABC News Sydney (D)
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121004
-#EXTINF:-1 tvg-id="17776" tvg-name="US More Max " tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="MOVIE NETWORKS",US More Max 
+#EXTINF:-1 tvg-id="17776" tvg-name="US More Max " tvg-logo="https://p.kindpng.com/picc/s/83-836958_more-max-hdtv-cinemax-hd-png-download.png" group-title="国际",More Max
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17776
