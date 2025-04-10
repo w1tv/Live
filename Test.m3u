@@ -17,8 +17,6 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46754
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/78578
 #EXTINF:-1 tvg-id="17749" tvg-name="US NBC (KXAN) Austin " group-title="国际",NBC
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/17749
-#EXTINF:-1 tvg-id="53737" tvg-name="UK-MTV UK" group-title="国际",MTV
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53737
 #EXTINF:-1 tvg-id="121004" tvg-name="AU ABC News Sydney (D)" group-title="国际",ABC News Sydney 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121004
 #EXTINF:-1 tvg-id="53695" tvg-name="UK-Discovery Science" group-title="国际",Discovery Science
@@ -43,7 +41,7 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9815
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46724
 #EXTINF:-1 tvg-id="35248" tvg-name="UK Sky Cinema Scifi & Horror FHD" group-title="国际",Sky Cinema Scifi & Horror 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35248
-#EXTINF:-1 tvg-id="35252" tvg-name="UK MOVIES: SKY CRIME THRILLER" group-title="国际",SKY Crime Thriller
+#EXTINF:-1 tvg-id="35252" tvg-name="UK MOVIES: SKY CRIME THRILLER" group-title="国际",Sky Crime Thriller
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35252
 #EXTINF:-1 tvg-id="20863" tvg-name="US Lifetime Movies " tvg-logo="https://findvectorlogo.com/wp-content/uploads/2020/01/lifetime-movies-vector-logo.png" group-title="国际",Lifetime Movies
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20863
@@ -99,3 +97,11 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20926
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/20943
 #EXTINF:-1 tvg-id="1846" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="国际",Fox Sports 1 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/1846
+#EXTINF:-1 tvg-id="17772" tvg-name="US HBO Family (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="国际",HBO Family  
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/17772
+#EXTINF:-1 tvg-id="13480" tvg-name="US MovieMAX (East) " tvg-logo="https://www.dishactivations.com/wp-content/uploads/2014/05/MoviePlex.png" group-title="国际",MovieMAX
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/13480
+#EXTINF:-1 tvg-id="21012" tvg-name="US Cinemax Outermax (X)" group-title="国际",Cinemax Outermax
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/21012
+#EXTINF:-1 tvg-id="46214" tvg-name="US Showtime East " group-title="国际",Showtime 
+http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/46214
