@@ -177,5 +177,5 @@ https://cmc-ono.amagi.tv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8
 #EXTINF:-1 group-title="国际",Lifetime Movies
 https://v1.thetvapp.to/hls/LifetimeMoviesEast/index.m3u8 
-#EXTINF:-1 group-title="国际",Lifetime MovieSphere
+#EXTINF:-1 group-title="国际",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
