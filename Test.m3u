@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="47213" tvg-name="CA CNN " group-title="国际",CNN
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/47213
 #EXTINF:-1 tvg-id="53757" tvg-name="UK: BBC NEWS" group-title="国际",BBC 
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53757
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="121139" tvg-name="US abc 7 (WABC) New York" group-title="国际",ABC
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/121139
 #EXTINF:-1 tvg-id="160711" tvg-name="US Al Jazeera" group-title="国际",Al Jazeera
