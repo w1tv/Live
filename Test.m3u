@@ -53,6 +53,8 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53720
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57377
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="国际",NBC Sports
 https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8
+#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-name="Pac-12 Insider" tvg-logo="https://i.imgur.com/736QREy.png" group-title="国际",Pac-12 Insider
+https://pac12-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="35241" tvg-name="UK-Sky Sports News" group-title="国际",Sky Sports News
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/137719
 #EXTINF:-1 tvg-id="53706" tvg-name="UK Sky Sports Mix FHD (D)" group-title="国际",Sky Sports Mix  
@@ -115,7 +117,5 @@ http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57437
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57438
 #EXTINF:-1 tvg-id="57276" tvg-name="CA: PBS HD" group-title="国际",PBS 
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57276
-#EXTINF:-1 tvg-id="DisneyChannelEast.us" tvg-name="Disney Channel East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Disney_Channel_logo_%282014%29.svg/512px-Disney_Channel_logo_%282014%29.svg.png" group-title="国际",Disney Channel  
-https://v1.thetvapp.to/hls/DisneyChannelEast/index.m3u8
 #EXTINF:-1 tvg-id="57277" tvg-name="CA OWN " group-title="国际",OWN 
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57277
