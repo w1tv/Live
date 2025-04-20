@@ -33,7 +33,7 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13702
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/21259
 #EXTINF:-1 tvg-id="9815" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="国际",CNBC
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9815
-#EXTINF:-1 tvg-id="46724" tvg-name="US HISTORY " group-title="国际",HISTORY
+#EXTINF:-1 tvg-id="46724" tvg-name="US HISTORY " group-title="国际",History
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46724
 #EXTINF:-1 tvg-id="35248" tvg-name="UK Sky Cinema Scifi & Horror FHD" group-title="国际",Sky Cinema Scifi & Horror 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35248
@@ -53,8 +53,6 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/53720
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/57377
 #EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="NBC Sports Bay Area" tvg-logo="https://i.imgur.com/MTgUVKx.png" group-title="国际",NBC Sports
 https://v1.thetvapp.to/hls/nbc-sports-bay-area/index.m3u8
-#EXTINF:-1 tvg-id="Pac12Insider.us" tvg-name="Pac-12 Insider" tvg-logo="https://i.imgur.com/736QREy.png" group-title="国际",Pac-12 Insider
-https://pac12-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="35241" tvg-name="UK-Sky Sports News" group-title="国际",Sky Sports News
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/137719
 #EXTINF:-1 tvg-id="53706" tvg-name="UK Sky Sports Mix FHD (D)" group-title="国际",Sky Sports Mix  
@@ -119,3 +117,5 @@ http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57438
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57276
 #EXTINF:-1 tvg-id="57277" tvg-name="CA OWN " group-title="国际",OWN 
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57277
+#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="国际",Comedy Dynamics
+https://aegis-cloudfront-1.tubi.video/427cd05d-a47b-4b16-a2fe-5e739da93966/playlist.m3u8
