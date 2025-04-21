@@ -33,7 +33,7 @@ http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/13702
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/21259
 #EXTINF:-1 tvg-id="9815" tvg-name="US CNBC " tvg-logo="https://piketrail.com/wp-content/uploads/2019/09/cnbclogo.png" group-title="国际",CNBC
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/9815
-#EXTINF:-1 tvg-id="46724" tvg-name="US HISTORY " group-title="国际",HISTORY
+#EXTINF:-1 tvg-id="46724" tvg-name="US HISTORY " group-title="国际",History
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/46724
 #EXTINF:-1 tvg-id="35248" tvg-name="UK Sky Cinema Scifi & Horror FHD" group-title="国际",Sky Cinema Scifi & Horror 
 http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35248
@@ -115,7 +115,7 @@ http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57437
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57438
 #EXTINF:-1 tvg-id="57276" tvg-name="CA: PBS HD" group-title="国际",PBS 
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57276
-#EXTINF:-1 tvg-id="PBSKidsEasternCentral.us" tvg-name="PBS Kids Eastern/Central" tvg-logo="https://i.imgur.com/ambc9le.png" group-title="国际",PBS Kids 
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 tvg-id="57277" tvg-name="CA OWN " group-title="国际",OWN 
 http://fortv.cc:8080//clarencekingrh@hotmail.com/pKgSdl4ZFX/57277
+#EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics" tvg-logo="https://i.imgur.com/1lEvUOa.png" group-title="国际",Comedy Dynamics
+https://aegis-cloudfront-1.tubi.video/427cd05d-a47b-4b16-a2fe-5e739da93966/playlist.m3u8
